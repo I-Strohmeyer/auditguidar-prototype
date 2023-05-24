@@ -11,6 +11,9 @@ function App() {
 					Guidar
 				</Text>
 			</Heading>
+			<Text color="white" mb={4}>
+				Checks if anyone is in the office.
+			</Text>
 			<Button bg="brand.900" _hover={{ backgroundColor: "#E78417" }}>
 				Get office status
 			</Button>
