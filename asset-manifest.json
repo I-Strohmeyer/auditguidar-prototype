@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/auditguidar-prototype/static/css/main.ed1ce8cf.css",
-    "main.js": "/auditguidar-prototype/static/js/main.6bffa5e0.js",
+    "main.js": "/auditguidar-prototype/static/js/main.12f53ff7.js",
     "static/js/787.411443bd.chunk.js": "/auditguidar-prototype/static/js/787.411443bd.chunk.js",
     "index.html": "/auditguidar-prototype/index.html",
     "main.ed1ce8cf.css.map": "/auditguidar-prototype/static/css/main.ed1ce8cf.css.map",
-    "main.6bffa5e0.js.map": "/auditguidar-prototype/static/js/main.6bffa5e0.js.map",
+    "main.12f53ff7.js.map": "/auditguidar-prototype/static/js/main.12f53ff7.js.map",
     "787.411443bd.chunk.js.map": "/auditguidar-prototype/static/js/787.411443bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed1ce8cf.css",
-    "static/js/main.6bffa5e0.js"
+    "static/js/main.12f53ff7.js"
   ]
 }
